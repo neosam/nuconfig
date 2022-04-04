@@ -266,3 +266,5 @@ let $config = {
     }
   ]
 }
+
+source ~/.nuscripts/nuscripts.nu
